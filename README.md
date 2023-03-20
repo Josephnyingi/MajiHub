@@ -1,5 +1,5 @@
 # Water Potability Prediction
-Click to  http://localhost:8502 and play with the application.
+Click to [water quality app](http://localhost:8502) and play with the application.
 
 # Project description
 ## Problem Statement
@@ -38,6 +38,10 @@ The project shows how machine learning can be used in prediction quality of wate
 # Contributors
 
 Joseph Nyingi
+
+# Useful links
+
+1. The Google Colab Notebook can be viewed [here](https://colab.research.google.com/github/Josephnyingi/MajiHub/blob/main/Water_Potability_Prediction.ipynb) 
 
 
 
