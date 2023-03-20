@@ -1,5 +1,5 @@
 # Water Potability Prediction
-Click to  and play with the application.
+Click to  http://localhost:8502 and play with the application.
 
 # Project description
 ## Problem Statement
